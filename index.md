@@ -1,4 +1,4 @@
-``` javascript
-var myVar = "Hello, Iam new to markdown";
-console.log(myVar)
-```
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
