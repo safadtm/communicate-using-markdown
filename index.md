@@ -1,1 +1,4 @@
-![Image](https://octodex.github.com/images/godotocat.png)
+``` javascript
+var myVar = "Hello, Iam new to markdown";
+console.log(myVar)
+```
